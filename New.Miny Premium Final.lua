@@ -1,4 +1,4 @@
-<script data-cfasync="false" src="//dcbbwymp1bhlf.cloudfront.net/?wbbcd=1727526"></script>--==========================================================================
+--==========================================================================
 --  New.Miny Premium
 --  Professional dark UI · blue accent · custom monogram logo
 --==========================================================================
